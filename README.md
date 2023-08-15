@@ -89,6 +89,7 @@ A readme Generator that uses Node & inquirer 8.2.4. Readme should include: Title
 ### inquirer
 
 - [inquirer](https://www.npmjs.com/package/inquirer/v/0.2.3)
+- [inq examples](https://github.com/SBoudrias/Inquirer.js/blob/master/packages/inquirer/examples/input.js)
 
 ### ES6
 
