@@ -17,6 +17,7 @@ A readme Generator that uses Node & inquirer 8.2.4. Readme should include: Title
 - [Credits](#credits)
 - [Key-Topics](#key-topics)
 - [Notes on Application](#notes-on-application)
+- [Screenshots of Generated Readme](#screenshots-of-readme)
 - [Node](#nodejs)
 - [Modularization](#modularization)
 - [NPM](#npm)
@@ -74,6 +75,16 @@ A readme Generator that uses Node & inquirer 8.2.4. Readme should include: Title
 ### Notes on Application
 
 - ![Notes About Application](<Images/notes about application.jpg>)
+  
+### Screenshots of Readme
+
+![readmescreenshot1](https://github.com/pmastropolo/project-nine-node-readme-generator-challenge/assets/135174286/0bc4d5e6-a85f-42c3-b903-4515df600379)
+
+![readmescreenshot2](https://github.com/pmastropolo/project-nine-node-readme-generator-challenge/assets/135174286/602f3da9-c288-4123-9a06-d3ad4afd09b5)
+
+![readmescreenshot3](https://github.com/pmastropolo/project-nine-node-readme-generator-challenge/assets/135174286/dd0b131e-4c38-42dc-b974-a907195f4b12)
+
+
 ### Node.js
 
 - [Node.js](https://en.wikipedia.org/wiki/Node.js)
