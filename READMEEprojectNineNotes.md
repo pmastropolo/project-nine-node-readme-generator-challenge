@@ -16,6 +16,7 @@ A readme Generator that uses Node & inquirer 8.2.4. Readme should include: Title
 - [Links](#links)
 - [Credits](#credits)
 - [Key-Topics](#key-topics)
+- [Notes on Application](#notes-on-application)
 - [Node](#nodejs)
 - [Modularization](#modularization)
 - [NPM](#npm)
@@ -70,6 +71,9 @@ A readme Generator that uses Node & inquirer 8.2.4. Readme should include: Title
 - ![user story](<Images/userr storryyy.jpg>)
 - ![ing](Images/inq.jpg)
 
+### Notes on Application
+
+- ![Notes About Application](<Images/notes about application.jpg>)
 ### Node.js
 
 - [Node.js](https://en.wikipedia.org/wiki/Node.js)

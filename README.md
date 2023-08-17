@@ -1,7 +1,7 @@
 # Name-of-the-Project ... 
 Describe whole project in one sentence.
 
-![License](https://img.shields.io/badge/license-Apache-2.0-pink.svg?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-pink.svg?style=for-the-badge)
 
 ## Description
   
@@ -35,8 +35,8 @@ Provide instructions/examples so if other users encounter a problem,
 they can have a place to reference back to.
   
 ## License
-This project uses the Apache-2.0 License;
- [view details on the Apache-2.0 [License](http://www.apache.org/licenses/LICENSE-2.0).
+This project uses the MIT License;
+ [view details on the MIT [License](https://opensource.org/licenses/MIT).
   
 ## Credits
 
