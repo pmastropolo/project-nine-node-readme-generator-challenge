@@ -42,7 +42,7 @@ A readme Generator that uses Node & inquirer 8.2.4. Readme should include: Title
 
 :arrow_forward:Github Link: https://github.com/pmastropolo/project-nine-read-me-challenege-generator-node
 
-:arrow_forward:Video Link:
+:arrow_forward:Video Link: https://www.youtube.com/watch?v=mNXCE8VZcrw
 
 ## Starter Code
 
@@ -60,7 +60,7 @@ A readme Generator that uses Node & inquirer 8.2.4. Readme should include: Title
 
 :arrow_forward:Github link: https://github.com/pmastropolo/project-nine-read-me-challenege-generator-node
 
-:arrow_forward:Video Link:
+:arrow_forward:Video Link: https://www.youtube.com/watch?v=mNXCE8VZcrw
 
 ## Credits
 
